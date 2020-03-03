@@ -1,6 +1,6 @@
 Task,Start,Finish,Complete,Resource
-Meetings with CS teams,01/01/2020,31/01/2020,100,A
-EDI calls,01/02/2020,01/03/2020,100,A
+Meetings with CS teams,2020-01-01,2020-01-31,100,A
+EDI calls,2020-02-01,2020-03-01,100,A
 Calls project for SE,01/02/2020,01/06/2020,5,A
 LVISNet orders FI,01/04/2020,01/05/2020,0,A
 Kesko e-archive requests FI,01/04/2020,01/05/2020,0,A
